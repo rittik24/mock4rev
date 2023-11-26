@@ -50,5 +50,124 @@
       "place": "Banglore",
       "gender": "Female"
     }
-  ]
+  ],
+	"battery":[
+		{
+        "imageUrl": "https://m.media-amazon.com/images/I/81V7J990fCL._AC_UY218_.jpg",
+        "brand": "Livguard",
+        "title": "Livguard 150Ah Recyclable Tall Tubular Battery with Fast Charging",
+        "model": "IT 1584TT",
+        "price": 14999,
+        "discountPersent": 40,
+        "Warranty":"84 months",
+        "Recommended Uses For Product": "Office, Home",
+        "Power Source": "Battery Powered",
+        "Colour": "Black",
+        "Included Components": "1 N Battery, 6 N Float Indicator, 1 N Warranty Card"
+    },
+    {
+        "imageUrl": "https://m.media-amazon.com/images/I/41KsOKCKU5L._AC_UY218_.jpg",
+        "brand": "Livguard",
+        "title": "Livguard 200Ah Recyclable Tall Tubular Inverter Battery with Long Life",
+        "model": "IT 2060TT",
+        "price": 16499,
+        "discountPersent": 18,
+        "Warranty":"60 months",
+        "Recommended Uses For Product": "Office, Home",
+        "Power Source": "Battery Powered",
+        "Colour": "Black",
+        "Included Components": "1 N Battery, 6 N Float Indicator, 1 N Warranty Card"
+    },
+    {
+        "imageUrl": "https://m.media-amazon.com/images/I/41m9QNhOrkL._SX300_SY300_QL70_FMwebp_.jpg",
+        "brand": "Livguard",
+        "title": "Livguard 160Ah Recyclable Tall Tubular Battery with Fast Charging",
+        "model": "IT 1672TT",
+        "price": 14199,
+        "discountPersent": 38,
+        "Warranty":"72 months",
+        "Recommended Uses For Product": "Office, Home",
+        "Power Source": "Battery Powered",
+        "Colour": "Black",
+        "Included Components": "1 N Battery, 6 N Float Indicator, 1 N Warranty Card"
+    },
+    {
+        "imageUrl": "https://m.media-amazon.com/images/I/51UdPKJ6kkL._SX300_SY300_QL70_FMwebp_.jpg",
+        "brand": "Exide",
+        "title": "Exide 150Ah Recyclable Tall Tubular Battery with Fast Charging",
+        "model": "IT500",
+        "price": 15449,
+        "discountPersent": 14,
+        "Warranty":"48 months",
+        "Recommended Uses For Product": "Office, Home",
+        "Power Source": "Battery Powered",
+        "Colour": "Red",
+        "Included Components": "1 N Battery, 6 N Float Indicator, 1 N Warranty Card"
+    },
+    {
+        "imageUrl": "https://m.media-amazon.com/images/I/41+NkZ-9jcL._SX300_SY300_.jpg",
+        "brand": "Exide",
+        "title": "Exide 150Ah Recyclable Tall Tubular Battery with Fast Charging",
+        "model": "IMTT1500",
+        "price": 12999,
+        "discountPersent": 40,
+        "Warranty":"60 months",
+        "Recommended Uses For Product": "Office, Home",
+        "Power Source": "Battery Powered",
+        "Colour": "Red",
+        "Included Components": "1 N Battery, 6 N Float Indicator, 1 N Warranty Card"
+    },
+    {
+        "imageUrl": "https://m.media-amazon.com/images/I/51bt19B-jiL._SY300_SX300_QL70_FMwebp_.jpg",
+        "brand": "Exide",
+        "title": "Exide 150Ah Recyclable Tall Tubular Battery with Fast Charging",
+        "model": "6LMS150",
+        "price": 13399,
+        "discountPersent": 16,
+        "Warranty":"60 months",
+        "Recommended Uses For Product": "Office, Home",
+        "Power Source": "Battery Powered",
+        "Colour": "Red",
+        "Included Components": "1 N Battery, 6 N Float Indicator, 1 N Warranty Card"
+    },
+    {
+        "imageUrl": "https://m.media-amazon.com/images/I/61PYqg6+TsL._SX569_.jpg",
+        "brand": "Luminous ",
+        "title": "Luminous  250Ah Recyclable Tall Tubular Battery with Fast Charging",
+        "model": "ILTT28060",
+        "price": 21200,
+        "discountPersent": 20,
+        "Warranty":"60 months",
+        "Recommended Uses For Product": "Office, Home",
+        "Power Source": "Battery Powered",
+        "Colour": "White & Blue",
+        "Included Components": "1 N Battery, 6 N Float Indicator, 1 N Warranty Card"
+    },
+    {
+        "imageUrl": "https://m.media-amazon.com/images/I/41AvKd6eyoS._SX300_SY300_QL70_FMwebp_.jpg",
+        "brand": "Luminous",
+        "title": "Luminous 150Ah Recyclable Tall Tubular Battery with Fast Charging",
+        "model": "RC 18000",
+        "price": 12799,
+        "discountPersent": 14,
+        "Warranty":"36 months",
+        "Recommended Uses For Product": "Office, Home",
+        "Power Source": "Battery Powered",
+        "Colour": "White & Blue",
+        "Included Components": "1 N Battery, 6 N Float Indicator, 1 N Warranty Card"
+    },
+    {
+        "imageUrl": "https://m.media-amazon.com/images/I/61gtbjq7RYL._SX569_.jpg",
+        "brand": "Luminous ",
+        "title": "Luminous 150Ah Recyclable Tall Tubular Battery with Fast Charging",
+        "model": "SC18060",
+        "price": 13499,
+        "discountPersent": 20,
+        "Warranty":"60 months",
+        "Recommended Uses For Product": "Office, Home",
+        "Power Source": "Battery Powered",
+        "Colour": "White & Blue",
+        "Included Components": "1 N Battery, 6 N Float Indicator, 1 N Warranty Card"
+    }
+	]
 }
