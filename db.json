@@ -175,7 +175,7 @@
 		{
         "imageUrl": "https://m.media-amazon.com/images/I/61ViDx5G6+L._SX569_.jpg",
         "brand": "Luminous",
-        "title": "Luminous Eco Watt Neo 1050 Square Wave 900VA/12V",
+        "title": "Luminous Square Wave 900VA/12V",
         "model": "Eco Watt Neo 1050",
         "price": 5280,
         "discountPersent": 20,
@@ -189,7 +189,7 @@
     {
         "imageUrl": "https://m.media-amazon.com/images/I/31yr7odZxFL._SX300_SY300_QL70_FMwebp_.jpg",
         "brand": "Luminous",
-        "title": "Luminous Shakti Charge+ 1450 1100Va Square Wave Inverter",
+        "title": "Luminous 1100VA Square Wave Inverter",
         "model": "Shakti Charge+ 1450",
         "price": 6190,
         "discountPersent": 18,
@@ -203,7 +203,7 @@
     {
         "imageUrl": "https://m.media-amazon.com/images/I/31FTfu9-YmS.jpg",
         "brand": "Luminous",
-        "title": "Luminous Eco Watt Neo 700 Square Wave 600VA/12V",
+        "title": "Luminous 600VA Square Wave Inverter",
         "model": "Eco Watt Neo 700",
         "price": 3950,
         "discountPersent": 28,
@@ -217,7 +217,7 @@
     {
         "imageUrl": "https://m.media-amazon.com/images/I/71cAmDh+mJS._SX425_.jpg",
         "brand": "Exide",
-        "title": "Exide 850VA Home Inverter",
+        "title": "Exide inverter with LED Display",
         "model": "GQP850VA",
         "price": 5090,
         "discountPersent": 14,
@@ -231,12 +231,12 @@
     {
         "imageUrl": "https://m.media-amazon.com/images/I/31gwbIZQVrS._SX300_SY300_QL70_FMwebp_.jpg",
         "brand": "Exide",
-        "title": "Exide Magic 825VA Inverter",
+        "title": "Exide Inverter with LED Display",
         "model": "Magic 825VA",
         "price": 4749,
         "discountPersent": 12,
         "Warranty":"3 years",
-	"Wattage": "504 Watts",
+	"Wattage": "50 Kilowatt Hours",
         "Recommended Uses For Product": "Office, Home",
         "Power Source": "Battery Powered",
         "Colour": "Black",
@@ -245,8 +245,8 @@
     {
         "imageUrl": "https://m.media-amazon.com/images/I/31c0TTel5WL._SY300_SX300_QL70_FMwebp_.jpg",
         "brand": "Microtek",
-        "title": "Microtek Energy Saver 825 Advanced Digital 715VA/12V Inverter",
-        "model": "899-030-8250",
+        "title": "Microtek Advanced Digital 715VA/12V Inverter",
+        "model": "Energy Saver 825",
         "price": 13399,
         "discountPersent": 16,
         "Warranty":"3 years",
@@ -259,7 +259,7 @@
     {
         "imageUrl": "https://m.media-amazon.com/images/I/617KhlKxwVL._SX569_.jpg",
         "brand": "Livguard ",
-        "title": "Livguard Sine Wave 900VA/12V Inverter with Smart Artificial Intelligence ",
+        "title": "Livguard Sine Wave 900VA/12V Inverter",
         "model": "LGS1100i",
         "price": 6499,
         "discountPersent": 20,
@@ -273,7 +273,7 @@
     {
         "imageUrl": "https://m.media-amazon.com/images/I/21wHHeI5jiL._SX300_SY300_QL70_FMwebp_.jpg",
         "brand": "Livguard",
-        "title": "Livguard LGS1600 Pure Sine Wave Inverter 1500 VA/12V ",
+        "title": "Livguard Sine Wave 1500VA/12V Inverter",
         "model": "LGS1600",
         "price": 9999,
         "discountPersent": 14,
@@ -287,7 +287,7 @@
     {
         "imageUrl": "https://m.media-amazon.com/images/I/610lHx-bS3L._AC_UY218_.jpg",
         "brand": "Livguard ",
-        "title": "Livguard LG1100 Square Wave 900VA/12V Inverter with Smart Artificial Intelligence",
+        "title": "Livguard Square Wave 900VA/12V Inverter",
         "model": "LG1100",
         "price": 5299,
         "discountPersent": 20,
